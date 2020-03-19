@@ -1,4 +1,5 @@
-<footer style="margin-bottom: 100px; margin-top: 50px;">
+<div class="bg-pink" style="margin-bottom: 0; margin-top: -6px;">
+<footer style="padding-top: 20px;">
     <div class="container mt-6">
       <div class="row mt-5">
         <div class="col-md-4">
@@ -8,8 +9,8 @@
                     <img src="<?= base_url()?>assets/images/logo-kharisma.png" alt="thamrin-logo" class="img-responsive setup"></a></p>
                 </div>
 			    <div class="col-md-8 footer-text">
-                    <h3>STMIK KHARISMA KARAWANG</h3>
-                    <p>Sekolah Tinggi Manajemen Informatika dan Komputer</p>
+                    <h3 style="line-height: 1;font-weight: 700;">STMIK KHARISMA KARAWANG</h3>
+                    <p style="line-height: 1.2;font-weight: 300;">Sekolah Tinggi Manajemen Informatika dan Komputer</p>
                 </div>
             </div>
         </div>
@@ -37,7 +38,8 @@
     </div>
 
   </footer>
-    <div class="bg-dark footer ">
+</div>
+    <div class="footer ">
     <div class="footer_author text-center container"> <!-- Footer-copyright -->
         <p>©<?= date('Y') ?> WebPlikasi. All Rights Reserved</p><a href="#myPage" class="Top-page" title="To Top">
     <span class="glyphicon glyphicon-chevron-up"></span>

@@ -23,6 +23,7 @@
      <!-- Default Theme -->
     <link rel="stylesheet" href="<?= base_url(); ?>assets/plugins/owl.carousel/owl-carousel/owl.theme.css">
     <link rel="stylesheet" href="<?= base_url(); ?>assets/css/animate.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/css/material-design-color.min.css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto">
     
     

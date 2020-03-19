@@ -34,19 +34,22 @@ body {
   -webkit-text-size-adjust: 100%;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  color: #7a7a7a;
+  color: #3e4352;
 }
 /*Layout*/
-
+#text-white{
+    color: rgb(0, 0, 0);
+}
 /*Top Header Clasess*/
 
 header.top-header-sec {
     color            : #444;
-    background			 : #FFF url('../images/pattern-tech.png') no-repeat left top;
+    background	     : #FFF url('../images/pattern-tech2.png') no-repeat left top;
+    opacity: 5;
   }
   
   header.top-header-sec img {
-    width      : 70px;
+    width      : 100px;
     margin-top : 20px;
     margin-left: auto;
     margin-right: auto;
@@ -106,11 +109,15 @@ header.top-header-sec {
     width      : 150px;
     margin-top : 25px;
 }
-footer .setup {
+footer{
     max-width:100%;
 	margin-left: auto;
-	margin-right: auto;
+    margin-right: auto;
+    
   }
+.bg-pink{
+    background	     : #FFF url('../images/pattern-tech2.jpg') repeat left top;
+}
 a, button {
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -347,8 +354,8 @@ strong, b {
 .header .navbar-inverse .navbar-nav>.active>a:focus, 
 .header .navbar-inverse .navbar-nav>li>a:focus, 
 .header .navbar-inverse .navbar-nav>.active>a:hover {
-	color:#333 !important; text-decoration:none; font-size:14px;font-family: "Raleway", sans-serif;
-	    background-color: transparent;
+	color:#333 !important; text-decoration:none; font-size:16px;font-family: "Raleway", sans-serif;
+	    background-color: transparent; font-weight: 700;
 	}
 
 .header .navbar-inverse .navbar-nav>li>a:hover{ color:#14aaf1;}
@@ -506,7 +513,7 @@ input:-webkit-autofill:active {
 .feature-content{ text-align:center; position:relative; }
 .feature-icon{    width: 78px;
     height: 78px;
-    background: #31aae2;
+    background: #14aaf1;
         border-radius: 20px 0; margin:0 auto 20px; }
 	.feature-icon span{ line-height:78px; font-size:20px; color:#fff;} 
 	.feature-title h4 {
@@ -524,10 +531,10 @@ input:-webkit-autofill:active {
 }
 
  .background-dark{ background-color:#f7f7f7;}
-.background-dark-img{ background-image:url(../images/services-bg.jpg); background-repeat:no-repeat; background-size:cover;}
+.background-dark-img{ background-image:url(../images/services-bg1.jpg); background-repeat:no-repeat; background-size:cover;}
 .img-right img{ display:block; margin:0 0 0 auto;}
 /*===========================================================================*\
-| feature
+| feature 
 \*===========================================================================*/
 .service {
     text-align: center;
@@ -870,10 +877,10 @@ ul {
     background-color: #222328;
 }
 .footer_author {
-    color: #999;
+    color: rgb(0, 0, 0);
     width: 100%;
     display: block;
-    background-color: #1d1e20;
+    background-color: rgba(223, 67, 141, 0.3);
     padding: 15px 0 10px;
 }
 .footer_author p {
@@ -888,7 +895,7 @@ ul {
     position: absolute;
     top: 10px;
     right:15px;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 
 

@@ -150,9 +150,9 @@
         <div class="container">
           <div class="row">
             <div class="col-sm-12 text-center wow fadeInUp">
-              <h2> Mengapa Memilih STMIK Kharisma Karawang </h2>
+              <h2 id="text-white"> Mengapa Memilih STMIK Kharisma Karawang </h2>
               <span class="space-30"> </span>
-              <h3>STMIK Kharisma merupakan Perguruan Tinggi Komputer pertama di Karawang</h3>
+              <h3 id="text-white">STMIK Kharisma merupakan Perguruan Tinggi Komputer pertama di Karawang</h3>
             </div>
           </div>
           <div class="row">
