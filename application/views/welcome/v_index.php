@@ -3,26 +3,44 @@
         <div class="owl-carousel owl-theme hiro-top">
             <div class="item">
               <div class="hiro-img">
-              <img src="assets/images/hiro.png" alt="hiro" >
+              <img src="assets/images/banner.png" alt="hiro" >
                   <div class="hiro-caption">
-                  <h1>STMIK Kharisma Karawang </h1>
+                  <!-- <h1>STMIK Kharisma Karawang </h1> -->
                   </div>
               </div>
             </div>
             <div class="item">
               <div class="hiro-img">
-              <img src="assets/images/hiro2.png" alt="hiro" >
+              <img src="assets/images/banner-2.png" alt="hiro" >
                   <div class="hiro-caption text-right">
-                  <h1>WebPlikasi </h1>
+                  <!-- <h1>WebPlikasi </h1> -->
                   </div>
               </div>
             </div> 
         </div>
      </div>
-      <!-- Feature -->
-      <div class=" background-dark padding-40" id="FEATURES">
+      <!-- Profil -->
+      <div class=" background-dark padding-40" id="profil">
         <div class="container">
           <div class="row">
+            <div class="col-sm8">
+              <h1 class="text-center">Visi Misi</h1>
+            </div>
+          </div>
+          <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+            <p class="text-center">
+              <p><strong>Visi</strong> :</p><p dir="ltr" style="text-align: justify;">Menjadi Sekolah Tinggi yang profesional di bidang teknologi informasi dan multimedia berbasis <i>open source</i> tahun 2020.</p>
+              <p><strong>Misi</strong> :</p>
+              <ol>
+                <li>Melaksanakan Tri Dharma Perguruan Tinggi untuk menunjang Teknologi Informasi guna mencapai derajat akademik yang lebih tinggi.</li>
+                <li>Menciptakan suasana akademik yang kondusif bagi pelaksanaan proses belajar mengajar, dan penelitian yang efisien dan efektif sehingga menghasilkan lulusan yang unggul dalam teknologi informasi.</li>
+                <li>Meningkatkan kerja sama dengan instansi pemerintah maupun swasta atau Perguruan Tinggi lain untuk meningkatkan daya saing mahasiswa dan alumni.</li>
+              </ol>
+            </p>
+          </div>
+          </div>
+          <div class="row" style="padding-top: 10px;">
             <div class="col-sm-3 wow fadeInUp">
               <div class="feature-content">
                 <div class="feature-icon"> <span class=" fa fa-info"></span> </div>
@@ -55,8 +73,8 @@
         </div> <!-- Container -->
       </div>
 
-      <!-- Service Box -->
-      <div class="section-box pt-60" id="about">
+      <!-- Prodi-->
+      <div class="section-box pt-60" id="prodi">
         <div class="container">
           <div class="row">
           <div class="col-md-6 col-sm-6 wow slideInLeft">
@@ -138,7 +156,7 @@
           </div>
           <div class="col-sm-6 img-right wow slideInRight" >
             <figure>
-              <img src="assets/images/ceo.jpg" alt=""  class="img-responsive">
+              <img src="assets/images/ayu.jpg" alt=""  class="img-responsive">
             </figure>
           </div>
         </div>
@@ -146,7 +164,7 @@
     </div>
 
       <!-- Service -->
-      <div class="services padding-40 background-dark-img" id="service">
+      <div class="services padding-40 background-dark-img" id="fasilitas">
         <div class="container">
           <div class="row">
             <div class="col-sm-12 text-center wow fadeInUp">
@@ -203,7 +221,7 @@
     </div>
 
       <!-- Work -->
-      <div class="our-work pt-60" id="Projects">
+      <div class="our-work pt-60" id="galeri">
         <div class="container">
           <div class="row">
             <div class="col-sm-12 text-center wow fadeInUp">
@@ -217,12 +235,11 @@
             <div class="work-box">
               <article>
                 <a href="#">
-                  <div class="our-work-img" style="background-image:url(assets/images/portfolio-yacht-cover-768x768.jpg)">              
+                  <div class="our-work-img" style="background-image:url(assets/images/gallery1.jpg)">              
                   </div>
                   <div class="work-overlay">
                     <i class="zmdi zmdi-plus"></i>
-                      <h3>Lorem </h3>
-                      <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut et debitis quae error ullam! Labore omnis dignissimos pariatur aut animi ratione, qui itaque velit maxime earum veritatis aperiam quae corporis!</p>
+                      <h3>STMIK Kharisma Karawang </h3>
                   </div>
                 </a>
               </article> 
@@ -232,12 +249,11 @@
             <div class="work-box">
               <article>
                 <a href="">
-                  <div class="our-work-img" style="background-image:url(assets/images/portfolio-thumb-1.jpg)">                  
+                  <div class="our-work-img" style="background-image:url(assets/images/gallery2.jpg)">                  
                   </div>
                   <div class="work-overlay">
                       <i class="zmdi zmdi-plus"></i>
-                      <h3>software like Aldus </h3>
-                      <p> It has survived not <br> only five centuries</p>
+                      <h3> laboratorium</h3>
                   </div>
                 </a>
               </article> 
@@ -247,12 +263,11 @@
             <div class="work-box">
               <article>
                 <a href="">
-                  <div class="our-work-img" style="background-image:url(assets/images/portfolio-thumb-2.jpg)">
+                  <div class="our-work-img" style="background-image:url(assets/images/gallery3.jpg)">
                   </div>
                   <div class="work-overlay">
                       <i class="zmdi zmdi-plus"></i>
-                      <h3>software like Aldus </h3>
-                      <p> It has survived not <br> only five centuries</p>
+                      <h3> Perpustakaan</h3>
                   </div>
                 </a>
               </article> 
@@ -262,12 +277,11 @@
             <div class="work-box">
               <article>
                 <a href="">
-                  <div class="our-work-img" style="background-image:url(assets/images/portfolio-thumb-3.jpg)">
+                  <div class="our-work-img" style="background-image:url(assets/images/gallery4.jpg)">
                   </div>
                   <div class="work-overlay">
                       <i class="zmdi zmdi-plus"></i>
-                      <h3>software like Aldus </h3>
-                      <p> It has survived not <br> only five centuries</p>
+                      <h3>Aktivitas Mahasiswa </h3>
                   </div>
                 </a>
               </article> 
@@ -277,12 +291,11 @@
             <div class="work-box">
               <article>
                 <a href="">
-                  <div class="our-work-img" style="background-image:url(assets/images/portfolio-thumb-4.jpg)">
+                  <div class="our-work-img" style="background-image:url(assets/images/gallery5.jpg)">
                   </div>
                   <div class="work-overlay">
                       <i class="zmdi zmdi-plus"></i>
-                      <h3>software like Aldus </h3>
-                      <p> It has survived not <br> only five centuries</p>
+                      <h3>Pekan Olahraga Kharisma </h3>
                   </div>
                 </a>
               </article> 
@@ -292,12 +305,11 @@
             <div class="work-box">
               <article>
                 <a href="">
-                  <div class="our-work-img" style="background-image:url(assets/images/portfolio-thumb-5.jpg)">
+                  <div class="our-work-img" style="background-image:url(assets/images/gallery6.jpg)">
                   </div>
                   <div class="work-overlay">
                       <i class="zmdi zmdi-plus"></i>
-                      <h3>software like Aldus </h3>
-                      <p> It has survived not <br> only five centuries</p>
+                      <h3>Laboratorium hardware</h3>
                   </div>
                 </a>
               </article> 
@@ -307,7 +319,7 @@
       </div>
       <div class="row">
       </div>
-      <div class="container">
+      <div class="container" id="contact">
           <div class="row">
             <div class="col-sm-12 text-center wow fadeInUp">
               <h2> Temukan Kami </h2>

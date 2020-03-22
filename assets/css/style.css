@@ -44,7 +44,7 @@ body {
 
 header.top-header-sec {
     color            : #444;
-    background	     : #FFF url('../images/pattern-tech2.png') no-repeat left top;
+    background	     : #FFF url('../images/pattern-tech-pink.png') no-repeat left top;
     opacity: 5;
   }
   
@@ -116,7 +116,7 @@ footer{
     
   }
 .bg-pink{
-    background	     : #FFF url('../images/pattern-tech2.jpg') repeat left top;
+    background	     : #FFF url('../images/pattern-tech-pink.png') no-repeat left top;
 }
 a, button {
   -moz-transition: all 0.3s;
@@ -513,7 +513,7 @@ input:-webkit-autofill:active {
 .feature-content{ text-align:center; position:relative; }
 .feature-icon{    width: 78px;
     height: 78px;
-    background: #14aaf1;
+    background: #e06bc6;
         border-radius: 20px 0; margin:0 auto 20px; }
 	.feature-icon span{ line-height:78px; font-size:20px; color:#fff;} 
 	.feature-title h4 {
@@ -571,7 +571,7 @@ input:-webkit-autofill:active {
     left:0%;
     width: 100%;
     height: 100%;
-    background-color:rgba(49,170,226, 0.8);;
+    background-color:rgba(224, 107, 198, 0.7);
     padding: 100px 30px 30px;
     text-align-last: center;
     color: #fff;
@@ -880,7 +880,7 @@ ul {
     color: rgb(0, 0, 0);
     width: 100%;
     display: block;
-    background-color: rgba(223, 67, 141, 0.3);
+    background-color: rgba(224, 107, 198, 0.7);
     padding: 15px 0 10px;
 }
 .footer_author p {
@@ -917,6 +917,11 @@ ul {
 }
 .title {
     text-align: center;
+}
+.dropdown.custom:hover .dropdown-menu {
+    visibility: visible;
+    display:block;
+    border-radius:0;
 }
 #informasi{
     display: none;
