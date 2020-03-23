@@ -55,9 +55,16 @@
     <script src="<?= base_url() ?>assets/js/wow.min.js"></script>
     <script src="<?= base_url() ?>assets/plugins/owl.carousel/owl-carousel/owl.carousel.js"></script>
     <script src="<?= base_url() ?>assets/js/custom.js"></script>
+    <script src="<?= base_url() ?>assets/js/floating-wpp.min.js"></script>
      
     <script>
-    new WOW().init();
+      new WOW().init();
+      $(function () {
+        $('#myButton').floatingWhatsApp({
+            phone: '+62 811-8454-800',
+            showPopup: true
+        });
+      });
     </script>
 
     <script src="<?= base_url();?>assets/js/modernizr.js"></script>

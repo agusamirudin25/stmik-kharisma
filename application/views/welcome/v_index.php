@@ -253,7 +253,7 @@
                   </div>
                   <div class="work-overlay">
                       <i class="zmdi zmdi-plus"></i>
-                      <h3> laboratorium</h3>
+                      <h3> Laboratorium</h3>
                   </div>
                 </a>
               </article> 
@@ -267,7 +267,7 @@
                   </div>
                   <div class="work-overlay">
                       <i class="zmdi zmdi-plus"></i>
-                      <h3> Perpustakaan</h3>
+                      <h3> Kreasi Musik Mahasiswa</h3>
                   </div>
                 </a>
               </article> 
@@ -281,7 +281,7 @@
                   </div>
                   <div class="work-overlay">
                       <i class="zmdi zmdi-plus"></i>
-                      <h3>Aktivitas Mahasiswa </h3>
+                      <h3>Perpustakaan </h3>
                   </div>
                 </a>
               </article> 
@@ -315,6 +315,48 @@
               </article> 
             </div>
           </div>
+          <div class="col-sm-4 col-md-4 no-padding">
+            <div class="work-box">
+              <article>
+                <a href="">
+                  <div class="our-work-img" style="background-image:url(assets/images/gallery8.jpg)">
+                  </div>
+                  <div class="work-overlay">
+                      <i class="zmdi zmdi-plus"></i>
+                      <h3>Olimpiade Pelopor IT (Climax)</h3>
+                  </div>
+                </a>
+              </article> 
+            </div>
+          </div>
+          <div class="col-sm-4 col-md-4 no-padding">
+            <div class="work-box">
+              <article>
+                <a href="">
+                  <div class="our-work-img" style="background-image:url(assets/images/gallery9.jpg)">
+                  </div>
+                  <div class="work-overlay">
+                      <i class="zmdi zmdi-plus"></i>
+                      <h3>Festival Marawis (Rohis)</h3>
+                  </div>
+                </a>
+              </article> 
+            </div>
+          </div>
+          <div class="col-sm-4 col-md-4 no-padding">
+            <div class="work-box">
+              <article>
+                <a href="">
+                  <div class="our-work-img" style="background-image:url(assets/images/gallery7.jpg)">
+                  </div>
+                  <div class="work-overlay">
+                      <i class="zmdi zmdi-plus"></i>
+                      <h3>Clean Day Gunung (STIKKAPALA)</h3>
+                  </div>
+                </a>
+              </article> 
+            </div>
+          </div>
         </div>
       </div>
       <div class="row">
@@ -333,4 +375,5 @@
          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.8015148381864!2d107.28963601431087!3d-6.28979926331325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6977fdbee49367%3A0x634509624511a088!2sSTMIK%20Kharisma!5e0!3m2!1sen!2sin!4v1584283775909!5m2!1sen!2sin" height="450"  allowfullscreen></iframe>
          </div>
        </div>
+       <div id="myButton"></div>
  
